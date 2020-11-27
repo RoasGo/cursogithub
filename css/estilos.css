@@ -22,3 +22,22 @@ html {
 .contenido-main p {
     font-size: 18px;
 }
+
+body {
+    height: 100vh;
+    background-color: #ddd;
+}
+
+.cabecera {
+    width: 80%;
+    height: 20vh;
+    margin: 0 auto;
+    border: 4px solid #fff;
+    font-size: 30px;
+}
+
+.cabecera p {
+    height: 100%;
+    text-align: center;
+    line-height: 5;
+}
